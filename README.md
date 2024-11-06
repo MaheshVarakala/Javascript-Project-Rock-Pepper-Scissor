@@ -1,1 +1,2 @@
-# Project-Rock-Pepper-Scissor
+# Javascript-Project-Rock-Pepper-Scissor
+
